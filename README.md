@@ -1,7 +1,7 @@
 # ESP8266
-The [ESP8266](https://github.com/negativerad/ESP8266/blob/master/ESP8266_Specifications_English.pdf) WiFi Module is a self contained SOC with integrated TCP/IP protocol stack that can give any microcontroller access to your WiFi network.
+The [ESP8266](https://github.com/mattwind/ESP8266/blob/master/docs/ESP8266_Specifications_English.pdf) WiFi Module is a self contained SOC with integrated TCP/IP protocol stack that can give any microcontroller access to your WiFi network.
 
-<img src="https://github.com/negativerad/ESP8266/blob/master/esp8266_pinout.png">
+<img src="https://github.com/mattwind/ESP8266/blob/master/images/esp8266_pinout.png">
 
 **Wiring**
 
@@ -16,7 +16,7 @@ compiled @ Dec 25 2014 21:40:28
 AI-THINKER Dec 25 2014
 ````
 
-Unzip the the content of the ZIP file https://github.com/negativerad/ESP8266/archive/master.zip
+Unzip the the content of the ZIP file https://github.com/mattwind/ESP8266/archive/master.zip
 
 Close Putty and/or any other application that is using the COM port to access the ESP8266.
 
@@ -35,8 +35,8 @@ Disconnect GPIO0 from GND
 Power on the ESP8266 module.
 
 ***Other Resources***
-* [ESP8266 Datasheet](https://github.com/negativerad/ESP8266/blob/master/ESP8266_Specifications_English.pdf)
-* [ESP8266 AT Command Reference](https://github.com/negativerad/ESP8266/wiki/AT-Command-Reference#at-commands)
+* [ESP8266 Datasheet](https://github.com/mattwind/ESP8266/blob/master/docs/ESP8266_Specifications_English.pdf)
+* [ESP8266 AT Command Reference](https://github.com/mattwind/ESP8266/wiki/AT-Command-Reference)
 * http://www.esp8266.com
 * http://www.electrodragon.com/w/ESP8266
 * http://www.xess.com/blog/esp8266-reflash
